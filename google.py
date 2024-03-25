@@ -1,3 +1,3 @@
 x = 5
 y = 1
-z = x + y
+print("This is Shashika code")
